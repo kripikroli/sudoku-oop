@@ -1,0 +1,5 @@
+*.vs
+Board.Puzzles/bin
+Board.Puzzles/obj
+Sudoku.Tests/bin
+Sudoku.Tests/obj
